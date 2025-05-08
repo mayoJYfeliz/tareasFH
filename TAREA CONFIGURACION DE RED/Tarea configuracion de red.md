@@ -4,7 +4,7 @@
 
 Crea dos máquinas virtuales (mediante clonación enlazada y reinicializando las direcciones MAC). Al hacerlo, los equipos serán visibles a través del interfaz de red enp0s8 (segundo adaptador de red virtual que implementa en VirtualBox una conexión de red interna a la red “intnet”).
 
-![captura_1][img/captura_1]
+![captura_1][captura_1]
 
 # **Paso 2: Configurar interfaces de red de forma no permanente**
 
